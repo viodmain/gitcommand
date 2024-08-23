@@ -1,10 +1,11 @@
 personB add line
 <<<<<<< HEAD
+<<<<<<< HEAD
 personC add line
 =======
 <<<<<<< HEAD
 >>>>>>> 353c024 (personC)
-personD add line
 =======
+>>>>>>> d4b548f (solve conflitc)
+personD add line
 personC add line
->>>>>>> bafa31e (personC)
