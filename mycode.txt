@@ -1,3 +1,10 @@
 personB add line
+<<<<<<< HEAD
 personC add line
+=======
+<<<<<<< HEAD
+>>>>>>> 353c024 (personC)
 personD add line
+=======
+personC add line
+>>>>>>> bafa31e (personC)
